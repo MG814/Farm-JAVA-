@@ -24,7 +24,7 @@ https://www.jetbrains.com/idea/
 
 
 ## Status projektu
-Projekt bedzie z czasem poprawiany, tak aby usprawnić jego działanie.
+Projekt będzie z czasem poprawiany, tak aby usprawnić jego działanie.
 
 
 ## Udoskonalenie projektu
@@ -34,10 +34,9 @@ Do poprawy:
 - Poprawa zarządzaniem zapasami gracza
 
 Do zrobienia:
-- Dodanie bazy danych gdzie bedą przechowywane posiadane zasoby np .rośliny, budynki itp.
+- Dodanie bazy danych gdzie bedą przechowywane posiadane zasoby np. rośliny, budynki itp.
 
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Projekt stworzony przez Michała Gotnera
 
 
