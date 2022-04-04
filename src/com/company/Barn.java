@@ -13,6 +13,6 @@ public class Barn extends Buildings {
 
     @Override
     public String toString() {
-        return "Pojemność stodoły: " + String.format("%, d",capacity) + " kg";
+        return "\nStodoła: " + "\nPojemność stodoły: " + String.format("%, d",capacity) + " kg\n";
     }
 }

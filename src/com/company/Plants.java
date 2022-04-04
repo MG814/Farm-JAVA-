@@ -1,14 +1,14 @@
 package com.company;
 
 public class Plants {
-    private double supplies; // ilośc posiadanych plonów w kg
+    public double supplies; // ilośc posiadanych plonów w kg
+    public double sown; // ilość obsianych hektarów
+    public double amount; // ilosc posiadanych nasion/sadzonek
+    public int growStage;
     private double price; // koszt zakupu nasion/sadzonek na 1 hektar
     private final String name;
-    private double sown; // ilość obsianych hektarów
-    private double amount; // ilosc posiadanych nasion/sadzonek
     private double growth; // okres od posadzenia do zbiorów w tygodniach
     private double yieldP; // Jest to przykładowa wydajność (wartośc podana w kilogramach na hektar)
-    private int growStage;
     private double purchase; // cena za kilogram
     private int startPlanting; // poczatek okresu siewów
     private int stopPlanting; // koniec okresu siewów
@@ -80,29 +80,11 @@ public class Plants {
 
     public String getName() { return name; }
 
-    public double getSown() { return sown; }
-
-    public void setSown(double sown) { this.sown = sown; }
-
     public double getPrice() { return price; }
-
-    public void setAmount(double amount) { this.amount = amount; }
-
-    public double getAmount() {
-        return amount;
-    }
 
     public double getGrowth() { return growth; }
 
-    public double getSupplies() { return supplies; }
-
-    public void setSupplies(double supplies) { this.supplies = supplies; }
-
     public double getYieldP() { return yieldP; }
-
-    public void setGrowStage(int growStage) { this.growStage = growStage; }
-
-    public int getGrowStage() { return growStage; }
 
     public double getPurchase() { return purchase; }
 
@@ -120,7 +102,7 @@ public class Plants {
 
     @Override
     public String toString() {
-        return  "\n\n" + name +
+        return  "\n" + name +
                 "\nPosiadane plony: " + String.format("%, .2f",supplies) + " kg" +
                 "\nZasiano/zasadzono: " + sown + " ha" +
                 "\nIlość nasion/sadzonek: " + amount +
@@ -128,6 +110,6 @@ public class Plants {
                 "\nOkres dojrzewania (w tygodniach): " + growth +
                 "\n" + plantingSeason +
                 "\nWydajność (kg/ha): " + yieldP +
-                "\nCena za 1 kg plonów: " + purchase + " PLN";
+                "\nCena za 1 kg plonów: " + purchase + " PLN" + "\n";
     }
 }

@@ -5,11 +5,10 @@ abstract public class Buildings {
     private double price;
 
     public Buildings(String name, double price){
-        this.name = name;
-        switch (this.name) {
-            case "chlew", "obora", "stodoła", "kurnik" -> this.price = price;
-        }
+           this.name = name;
+           this.price = price;
     }
-
     public double getPrice() { return price; }
+
+    public String getName() { return name; }
 }
