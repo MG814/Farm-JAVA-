@@ -1,6 +1,6 @@
 # Farm
 
-## Table of Contents
+## Spis treści
 * [Informacje ogólne](#informacje-ogólne)
 * [Użyte technologie](#użyte-technologie)
 * [Uruchomienie](#uruchomienie)
@@ -9,7 +9,7 @@
 
 
 ## Informacje ogólne
-- Celem projektu jest prosta gra konsolowa, wktórej gracz jest właścicielem farmy.
+- Celem projektu jest prosta gra konsolowa, w której gracz jest właścicielem farmy.
 - Był to projekt zaliczeniowy z przedmiotu: Programowanie w języku JAVA
 
 
