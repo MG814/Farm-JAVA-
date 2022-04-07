@@ -37,7 +37,3 @@ Do poprawy:
 Do zrobienia:
 - Dodanie bazy danych gdzie bedą przechowywane posiadane zasoby np. rośliny, budynki itp.
 
-
-Projekt stworzony przez Michała Gotnera
-
-
