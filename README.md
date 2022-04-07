@@ -1,5 +1,5 @@
 # Farm
-> Projekt ten jest prostą grą w formie tekstowej, w której gracz wciela się we właściciela farmy. W grze można uprawiać rośliny oraz chodować zwierzęta. Projekt ten został stworzony w celu zaliczenia przedmiotu, oraz nauki języka JAVA.
+> Projekt ten jest prostą grą w formie tekstowej, w której gracz wciela się we właściciela farmy. W grze można uprawiać rośliny oraz chodować zwierzęta. Projekt ten został stworzony w celu zaliczenia przedmiotu oraz nauki języka JAVA.
 
 ## Spis treści
 * [Informacje ogólne](#informacje-ogólne)
