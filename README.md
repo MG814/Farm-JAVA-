@@ -15,7 +15,7 @@
 
 
 ## Użyte technologie
-- JAVA - version 8.0
+- JAVA - wersja 8.0
 
 
 ## Uruchomienie
