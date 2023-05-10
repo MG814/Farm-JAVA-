@@ -25,7 +25,7 @@ https://www.jetbrains.com/idea/
 
 
 ## Status projektu
-Projekt będzie z czasem poprawiany, tak aby usprawnić jego działanie.
+Projekt jest chwilowo zawieszony.
 
 
 ## Udoskonalenie projektu
